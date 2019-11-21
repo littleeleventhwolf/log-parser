@@ -53,8 +53,8 @@
       <file leaf-file-name="MBLLogParser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/littleeleventhwolf/MBLLogParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="236">
+              <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,6 +152,9 @@
       <find>found</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -199,6 +202,7 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -213,90 +217,6 @@
             <path>
               <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
               <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="littleeleventhwolf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="littleeleventhwolf" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="littleeleventhwolf" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="ops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="littleeleventhwolf" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="littleeleventhwolf" type="462c0819:PsiDirectoryNode" />
-              <item name="parser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="log-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="log-parser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="littleeleventhwolf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -408,7 +328,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574168032717</updated>
       <workItem from="1574168037496" duration="3768000" />
-      <workItem from="1574242272311" duration="24166000" />
+      <workItem from="1574242272311" duration="24441000" />
     </task>
     <servers />
   </component>
@@ -439,7 +359,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27934000" />
+    <option name="totallyTimeSpent" value="28209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -454,7 +374,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32948717" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -691,8 +611,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/littleeleventhwolf/MBLLogParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="236">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
